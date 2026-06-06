@@ -3425,10 +3425,6 @@ input[type="button"].btn-block {
 .tab-content > .active {
   display: block; }
 
-.inactive {
-  color: #6c757d !important;
-}
-
 .navbar {
   position: relative;
   display: -webkit-box;
